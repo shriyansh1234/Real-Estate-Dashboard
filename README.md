@@ -1,4 +1,4 @@
-# Real Estate Dashboard
+## Real Estate Dashboard
 
 ![Real Estate Dashboard 1](https://github.com/shriyansh1234/Real-Estate-Dashboard/raw/main/Real%20Estate%20Dashboard%201.png)
 
